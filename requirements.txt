@@ -1,0 +1,5 @@
+pandas
+pymongo
+langchain-groq
+langchain-core
+python-dotenv
